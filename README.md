@@ -25,3 +25,4 @@ file : url of google drive you just got when you published as webpage
 example :
 www.example.com/index.php?format=json&file=https://docs.google.com/your-file-published-url
 ```
+### PLEASE NOTE THAT XML IS NOT WORKING PROPERLY, BUT ARRAY AND JSON WORKING PROPERLY
